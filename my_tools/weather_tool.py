@@ -44,8 +44,6 @@ def get_weather(city:str):
         return "Unexpected response format from WeatherAPI."
 
 
-
-    # return f"The weather in {location}, {country} is '{condition}' with a temperature of {temp_c}°C."
     
   
     
